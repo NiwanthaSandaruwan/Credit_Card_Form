@@ -26,6 +26,11 @@ This repository contains a responsive credit card form built using Vue.js and HT
 Feel free to use, modify, or enhance this credit card form for your projects. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 **Note:** This project is developed for educational purposes and may not include full security features for handling actual credit card information. Use it responsibly and consider implementing proper security practices before using it in production environments.
-
+<br></br>
 Happy coding!
+
+<p align="center">
+Modified And Created By Niwantha Sandaruwan
+</p>
+
 
