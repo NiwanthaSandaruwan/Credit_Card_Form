@@ -27,7 +27,6 @@ Feel free to use, modify, or enhance this credit card form for your projects. If
 
 **Note:** This project is developed for educational purposes and may not include full security features for handling actual credit card information. Use it responsibly and consider implementing proper security practices before using it in production environments.
 <br></br>
-Happy coding!
 
 <p align="center">
 Modified And Created By Niwantha Sandaruwan
